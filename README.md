@@ -36,7 +36,7 @@ I am a dedicated fullstack developer focused on writing clean, efficient code an
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:ismaelvaherndev@gmail.com"><img src="https://img.shields.io/badge/-ismaelvaherndev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ismaelvahern@gmail.com"><img src="https://img.shields.io/badge/-ismaelvaherndev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ismavdev2" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
